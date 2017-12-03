@@ -1,0 +1,8 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉŞ¿ª8ˆò¢Â,
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿ
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(à‡´ôûÿÿÿÿ8·ÖŸÂ,
+rsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ö¢æ8÷çûÁ,
